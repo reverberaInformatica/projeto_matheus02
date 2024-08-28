@@ -1,0 +1,20 @@
+body{
+    background-color:#8e8ab1;
+    color:black;
+}
+
+table{
+    width: 80%;
+    margin: auto;
+    color:blue;
+    font-size: 15px;
+}
+td, th{
+    border: 1px solid;
+    border-color:black;
+}
+
+a{
+    font-size: 30px;
+    color:rgb(60, 255, 0);
+}
