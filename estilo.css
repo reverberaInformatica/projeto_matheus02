@@ -18,3 +18,17 @@ a{
     font-size: 30px;
     color:rgb(60, 255, 0);
 }
+.galeria{
+    margin: auto;
+    width: 70%;
+    height: fit-content;
+}
+img{
+    width: 100%;
+    border-radius: 30px;
+}
+video{
+    margin: 40px;
+    border-radius:30px;
+    width: 70%;
+}
